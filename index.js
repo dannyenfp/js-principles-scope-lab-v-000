@@ -7,7 +7,8 @@ function upperCaseCustomerName() {
 }
 
 function setBestCustomer() { 
-  return var bestCustomer = 'not bob';
+ var bestCustomer = 'not bob';
+
 } 
 
 function overwriteBestCustomer() { 
